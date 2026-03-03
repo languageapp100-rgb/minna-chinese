@@ -1,0 +1,27 @@
+プライバシーポリシー / Privacy Policy
+
+■ みんなの中国語 / Real Chinese
+
+1. 個人情報の収集と利用 (Data Collection and Usage)
+本アプリは、ユーザー名、メールアドレス、電話番号などの個人情報を直接収集することはありません。学習進捗や設定などのデータは、ユーザーのデバイス内（Local Storage）にのみ保存されます。
+This app does not collect personal information such as names, email addresses, or phone numbers. All learning progress and settings are stored locally on your device (Local Storage) only.
+
+2. 音声認識機能の利用 (Speech Recognition)
+本アプリのスピーキング学習機能では、デバイス標準の音声認識API（Apple SFSpeechRecognition または Google Speech-to-Text）を利用します。音声データは認識処理のために各プラットフォームのサーバーに送信される場合がありますが、本アプリが音声を録音・保存することはありません。
+The speaking practice feature uses standard device Speech Recognition APIs (Apple SFSpeechRecognition or Google Speech-to-Text). While voice data may be processed by platform servers for recognition, this app does not record or store your voice.
+
+3. 広告について (Advertisements)
+本アプリでは、広告配信のためにGoogle AdMobを利用しています。AdMobは、ユーザーに最適化された広告を表示するために、デバイス識別子などの非個人情報を収集する場合があります。
+This app uses Google AdMob for advertisement delivery. AdMob may collect non-personal information such as device identifiers to display optimized ads to users.
+
+4. 免責事項 (Disclaimer)
+本アプリの利用により生じた損害について、開発者は一切の責任を負いません。学習内容の正確性については細心の注意を払っておりますが、保証するものではありません。
+The developer is not responsible for any damages resulting from the use of this app. While we strive for accuracy in learning content, it is not guaranteed.
+
+5. お問い合わせ (Contact)
+プライバシーポリシーに関するお問い合わせは、以下のメールアドレスよりご連絡ください。
+Email: languageapp100@gmail.com
+For inquiries regarding the privacy policy, please contact us at:
+Email: languageapp100@gmail.com
+
+最終更新日 (Last Updated): 2024-03-03
