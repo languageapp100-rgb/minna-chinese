@@ -1,0 +1,178 @@
+[
+  {
+    "id": "basic",
+    "name": "基本（100選）",
+    "nameZh": "基本对话",
+    "icon": "⭐",
+    "description": "絶対覚えるべき基本の100フレーズ",
+    "color": "#1976D2"
+  },
+  {
+    "id": "greeting",
+    "name": "挨拶",
+    "nameZh": "问候",
+    "icon": "👋",
+    "description": "日常的な挨拶と自己紹介",
+    "color": "#E53935"
+  },
+  {
+    "id": "daily",
+    "name": "日常会話",
+    "nameZh": "日常对话",
+    "icon": "💬",
+    "description": "日常生活でよく使うフレーズ",
+    "color": "#4CAF50"
+  },
+  {
+    "id": "restaurant",
+    "name": "レストラン",
+    "nameZh": "餐厅",
+    "icon": "🍜",
+    "description": "レストランでの注文・会話",
+    "color": "#FF9800"
+  },
+  {
+    "id": "shopping",
+    "name": "買い物",
+    "nameZh": "购物",
+    "icon": "🛍️",
+    "description": "買い物・交渉で使うフレーズ",
+    "color": "#E91E63"
+  },
+  {
+    "id": "travel",
+    "name": "旅行",
+    "nameZh": "旅游",
+    "icon": "✈️",
+    "description": "旅行中に使える会話",
+    "color": "#2196F3"
+  },
+  {
+    "id": "business",
+    "name": "仕事",
+    "nameZh": "工作",
+    "icon": "💼",
+    "description": "ビジネスシーンの中国語",
+    "color": "#607D8B"
+  },
+  {
+    "id": "emotion",
+    "name": "感情表現",
+    "nameZh": "表达感情",
+    "icon": "😊",
+    "description": "感情・気持ちを伝えるフレーズ",
+    "color": "#9C27B0"
+  },
+  {
+    "id": "transport",
+    "name": "交通",
+    "nameZh": "交通",
+    "icon": "🚇",
+    "description": "移動・交通に関するフレーズ",
+    "color": "#00BCD4"
+  },
+  {
+    "id": "health",
+    "name": "健康・病院",
+    "nameZh": "健康・医院",
+    "icon": "🏥",
+    "description": "体調・病院で使うフレーズ",
+    "color": "#F44336"
+  },
+  {
+    "id": "slang",
+    "name": "スラング",
+    "nameZh": "俚语",
+    "icon": "🔥",
+    "description": "ネット用語・スラング",
+    "color": "#FF5722"
+  },
+  {
+    "id": "idiom",
+    "name": "成語・慣用句",
+    "nameZh": "成语",
+    "icon": "📚",
+    "description": "中国の成語・四字熟語",
+    "color": "#D32F2F"
+  },
+  {
+    "id": "digital",
+    "name": "デジタル",
+    "nameZh": "数码",
+    "icon": "📱",
+    "description": "デジタル・ネットのフレーズ",
+    "color": "#1565C0"
+  },
+  {
+    "id": "money",
+    "name": "お金・金融",
+    "nameZh": "金融",
+    "icon": "💰",
+    "description": "お金・投資に関するフレーズ",
+    "color": "#2E7D32"
+  },
+  {
+    "id": "social",
+    "name": "SNS・社交",
+    "nameZh": "社交",
+    "icon": "🤝",
+    "description": "SNS・社交のフレーズ",
+    "color": "#7B1FA2"
+  },
+  {
+    "id": "hobby",
+    "name": "趣味・娯楽",
+    "nameZh": "爱好",
+    "icon": "🎮",
+    "description": "趣味・娯楽のフレーズ",
+    "color": "#388E3C"
+  },
+  {
+    "id": "fashion",
+    "name": "ファッション",
+    "nameZh": "时尚",
+    "icon": "👗",
+    "description": "ファッション・美容のフレーズ",
+    "color": "#AD1457"
+  },
+  {
+    "id": "housing",
+    "name": "住宅・引越し",
+    "nameZh": "住房",
+    "icon": "🏠",
+    "description": "住宅・引越しのフレーズ",
+    "color": "#F9A825"
+  },
+  {
+    "id": "nature",
+    "name": "自然・動物",
+    "nameZh": "自然",
+    "icon": "🌿",
+    "description": "自然・動物に関するフレーズ",
+    "color": "#43A047"
+  },
+  {
+    "id": "tech",
+    "name": "テクノロジー",
+    "nameZh": "科技",
+    "icon": "💻",
+    "description": "テクノロジーのフレーズ",
+    "color": "#0277BD"
+  },
+  {
+    "id": "society",
+    "name": "社会問題",
+    "nameZh": "社会",
+    "icon": "🌍",
+    "description": "社会問題に関するフレーズ",
+    "color": "#EF6C00"
+  },
+  {
+    "id": "politics",
+    "name": "政治・ニュース",
+    "nameZh": "政治",
+    "icon": "⚖️",
+    "description": "政治・ニュースのフレーズ",
+    "color": "#37474F"
+  }
+]
